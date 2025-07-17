@@ -26,7 +26,7 @@ This single node allows you to perform both text generation and image analysis, 
     ```
 2.  Clone this GitHub repository into the `custom_nodes` directory:
     ```bash
-    git clone https://github.com/your-username/ComfyUI-Vision-LLM-Analyzer.git
+    git clone https://github.com/Aero-Ex/ComfyUI-Vision-LLM-Analyzer.git
     ```
 3.  Install the required dependencies by navigating into the new directory and running pip:
     ```bash
